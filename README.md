@@ -1,1 +1,1 @@
-##Tic tac toe game in browser on React
+## Tic tac toe game in browser on React
